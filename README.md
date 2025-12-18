@@ -53,4 +53,4 @@ The source code is organized into logical modules:
 * **Focus:** Mobile Application Development, UI/UX Design, Local Data Persistence.
 
 ---
-Developed by **Aathi125**
+Developed by **Aathika Ilmudeen**
