@@ -1,0 +1,20 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.LabTest03" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Primary brand color -->
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryDark">@color/primary_dark</item>
+        <item name="colorOnPrimary">@color/textPrimary</item>
+
+        <!-- Secondary / Accent color -->
+        <item name="colorSecondary">@color/accent</item>
+
+        <!-- Backgrounds -->
+        <item name="android:colorBackground">@color/off_white</item>
+
+        <!-- Text colors -->
+        <item name="android:textColorPrimary">@color/textPrimary</item>
+    </style>
+
+    <style name="Theme.LabTest03" parent="Base.Theme.LabTest03" />
+</resources>

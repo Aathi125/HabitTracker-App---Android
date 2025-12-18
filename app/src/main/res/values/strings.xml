@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Mindly</string>
+    <string name="date_example">Wednesday, October 8</string>
+    <string name="welcome_message">Good morning, Aathika!</string>
+    <string name="percentage">0%</string>
+    <string name="completed_habits">0 of 0 Habits completed</string>
+    <string name="stay_motivated">Stay motivated!</string>
+    <string name="motivation_sub">Keep pushing forward 🚀</string>
+    <string name="latest_mood">Latest Mood</string>
+    <string name="none">none</string>
+    <string name="hydration_reminders">Hydration Reminders</string>
+    <string name="disabled">disabled</string>
+    <string name="view_mood_trends">View Mood Trends</string>
+</resources>

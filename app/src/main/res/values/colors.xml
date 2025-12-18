@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFF</color>
+    <color name="off_white">#FAF7FC</color>
+
+    <!-- Primary Lavender Theme -->
+    <color name="primary">#D8B4FE</color>          <!-- Soft lavender -->
+    <color name="primary_dark">#B388EB</color>     <!-- Medium purple -->
+    <color name="accent">#A965A9</color>           <!-- Classic light orchid accent -->
+
+    <!-- Text Colors -->
+    <color name="textPrimary">#2E1A47</color>      <!-- Deep plum for contrast -->
+    <color name="soft_blue_gray">#EDE7F6</color>   <!-- Subtle lavender-gray background -->
+    <color name="cool_gray">#B9A9C9</color>        <!-- Muted purple-gray -->
+    <color name="muted">#643C78</color>            <!-- Desaturated violet-gray -->
+
+    <!-- Mood Colors (Matching Theme but Distinct) -->
+    <color name="mood_happy">#FFF59D</color>
+    <color name="mood_sad">#90CAF9</color>
+    <color name="mood_angry">#EF9A9A</color>
+    <color name="mood_neutral">#E0E0E0</color>
+    <color name="mood_sleepy">#CE93D8</color>   <!-- Dusty violet -->
+</resources>

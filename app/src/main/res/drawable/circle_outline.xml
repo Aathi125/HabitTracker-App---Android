@@ -1,0 +1,10 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="oval">
+    <size
+        android:width="8dp"
+        android:height="8dp"/>
+    <stroke
+        android:width="2dp"
+        android:color="#643C78"/> <!-- Inactive dot border color -->
+    <solid android:color="#E8EAF6"/> <!-- Background matches screen -->
+</shape>

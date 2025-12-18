@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.LabTest03" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primary_dark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="android:colorBackground">@color/textPrimary</item>
+        <item name="android:textColorPrimary">@color/off_white</item>
+    </style>
+
+    <style name="Theme.LabTest03" parent="Base.Theme.LabTest03" />
+</resources>
