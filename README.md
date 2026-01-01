@@ -3,6 +3,7 @@
 A comprehensive, native Android application developed for my **University Year 2, Semester 2** project. This app is designed to help users build consistency and improve their daily routines through goal tracking, mood monitoring, and automated reminders.
 
 ---
+![Website Image](Home.png)
 
 ## 🚀 Features
 * **Habit Management:** Create and track daily habits to build long-term consistency.
